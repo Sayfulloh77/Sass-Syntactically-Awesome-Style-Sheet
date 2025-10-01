@@ -1,0 +1,7 @@
+@mixin btn($a, $b, $c, $d, $k) { /* mixin 2 ta parametir olmoqda*/
+    color: $a;
+    width: $b;
+    height: $c;
+    border: $d;
+    border-radius: $k;
+}

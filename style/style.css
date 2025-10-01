@@ -430,8 +430,23 @@ footer {
   cursor: none;
 }
 
+.btn {
+  /* mixin 2 ta parametir olmoqda*/
+  color: white;
+  width: 200px;
+  height: 200px;
+  border: 2px solid blue;
+  border-radius: 20px;
+}
+
 .card {
   background-color: crimson;
+  /* mixin 2 ta parametir olmoqda*/
+  color: white;
+  width: 600px;
+  height: 400px;
+  border: 1px solid red;
+  border-radius: 20px;
 }
 
 .nav {
